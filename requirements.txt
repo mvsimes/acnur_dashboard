@@ -1,0 +1,5 @@
+streamlit==1.17.0
+streamlit-option-menu==0.3.2
+pydeck==0.8.0
+bokeh==2.4.3
+plotnine==0.10.1
